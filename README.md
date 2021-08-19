@@ -11,4 +11,4 @@ Controls:
 - Left Click: selecte start (orange), end (blue), and barrier (black) squares on the grid
 - Right Click: Remove start, end, and barrier squares on the grid
 - Space: Start the visualization
-- C: clear the grid
+- C: Clear the grid
